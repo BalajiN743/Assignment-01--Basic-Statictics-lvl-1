@@ -1,6 +1,5 @@
-# Assignment-01--Basic-Statictics-lvl-1
-Basic Statistics-01 Solution for Questions on Basic statistics
-Activity	Data Type
+
+some of the statictis to test :
 Q1) Identify the Data type for the Following:
 
 Number of beatings from Wife	Discrete
